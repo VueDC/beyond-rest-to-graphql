@@ -14,3 +14,4 @@
 
 *   [Slides](/slides.pdf)
 *   [Demo Code](/src)
+*   [Recording](https://www.youtube.com/watch?v=EpMIR6qKqIE)
