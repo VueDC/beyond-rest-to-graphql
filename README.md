@@ -8,7 +8,7 @@
 
 ## Resources
 
-*   [Slides](/slides.pptx)
+*   [Slides](/slides.pdf)
 *   [Demo Code](/src)
 
 ## Why GraphQL and not REST?
