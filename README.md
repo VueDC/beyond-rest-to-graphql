@@ -1,12 +1,15 @@
 # Vue.js: Beyond REST to GraphQL
 
-Presenters:
+## Speakers:
 
-*   Tracey
-*   Priya
-*   Ron
+*   Tracey Holinka
+*   Priya Kathiri
+*   Ronald Rogers
 
 ## Resources
+
+*   [Slides](slides.pptx)
+*   [Demo Code](/src)
 
 ## Why GraphQL and not REST?
 
