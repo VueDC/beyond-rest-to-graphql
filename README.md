@@ -2,7 +2,7 @@
 
 ## About
 
-How we built Vue js SPAs against GraphQL endpoints
+How we built Vue.js SPAs against GraphQL endpoints
 
 **Speakers:**
 
