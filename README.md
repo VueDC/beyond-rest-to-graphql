@@ -6,9 +6,9 @@
 
 **Speakers:**
 
-*   Tracey Holinka
-*   Priya Kathiri
-*   Ronald Rogers
+*   Tracey Holinka, Web Application Architect from Bloomberg BNA
+*   Priya Kathiri, Senior Software Engineer from Bloomberg BNA
+*   Ronald Rogers, Techincal Lead from Bloomberg BNA
 
 ## Resources
 
