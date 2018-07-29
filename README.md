@@ -1,14 +1,18 @@
 # Vue.js: Beyond REST to GraphQL
 
-## About:
+## About
 
-**Date:** March 14th, 2018
+How we built Vue js SPAs against GraphQL endpoints
 
 **Speakers:**
 
 *   Tracey Holinka, Web Application Architect from Bloomberg BNA
 *   Priya Kathiri, Senior Software Engineer from Bloomberg BNA
 *   Ronald Rogers, Techincal Lead from Bloomberg BNA
+
+**Date:** March 14th, 2018
+
+**Location:** Bloomberg BNA (Crystal City, VA)
 
 ## Resources
 
